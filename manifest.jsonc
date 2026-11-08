@@ -1,0 +1,14 @@
+{
+    "name": "Core Mod",
+    "version": "1.0.0",
+    "description": "Algae Core Mod, adding many new features and improvements to the game!",
+    "creator": "netiken",
+    "iconPath": "images/icon.png",
+    "resources": [
+        {
+            "id": "SELECTORSCREEN",
+            "type": "image",
+            "path": "images/selector_screen.jpg"
+        }
+    ]
+}
